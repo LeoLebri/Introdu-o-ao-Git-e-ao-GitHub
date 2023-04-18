@@ -1,2 +1,5 @@
-# Introdu-o-ao-Git-e-ao-GitHub
-Desafio de projetos Git/GitHub
+# Desafio de projetos Git/GitHub
+Depositório criado para o desafio de projetos 
+
+## Links Úteis 
+[Sintaxe básica Markdown](https://www.markdownguide.org/)
